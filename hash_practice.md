@@ -80,14 +80,14 @@ Example:
 `bestsellers[ ] = "       "`
 
 
-###Objective - Take the last item out of a hash
+###Objective - See if a hash contains a value
 
 `authors = {"Little Women" => "Louisa May Alcott", "Robinson Crusoe" => "Daniel Defoe"}`
 
 1) See if the `authors` hash contains the value "Louisa May Alcott".
 
 
-###Objective - remove nil from array
+###Objective - Learn how the include? method works
 
 `remodel = {floor: "tile", cabinets: "oak", countertop: "corian", faucet: "stainless steel", refrigerator: "LG" }`
 
