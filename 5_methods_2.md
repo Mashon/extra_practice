@@ -3,6 +3,8 @@
 ####1) Objective: Use an explicit return to exit a loop once the value is found.  
 Write a method called `exit_at_six`. Use a loop to start counting from 0 up to 10. Use an explicit return to exit the loop at 6 and return 6.  
 
+Remember! A return does not output anything to screen. Make sure to run this code in irb in order to see the return value!
+
 ####2) Objective(s):
 * Use the times Enumerator.  
 * Review - Understand how to output text on the same line vs. on a new line.  
