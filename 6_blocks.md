@@ -83,5 +83,9 @@ def test_block
   end
 end
 
+test_block
+```
+Try running this again WITH a block.
+```ruby
 test_block {puts "I'm the second line of code!"}
 ```
