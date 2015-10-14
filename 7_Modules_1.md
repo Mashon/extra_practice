@@ -47,7 +47,7 @@ MIMIMUM_QUOTA = 25
 ```
 Now, reset it to 35. Notice the warning Ruby throws at you. It will change the constant but gives you plenty of notice in case you accidentally changed it and want to set it back to what it was right away.
 
-
+####Using modules in a class
 
 Now let's create a new class to use a method from our module.  Here we've created a Sales Associate class.
 
