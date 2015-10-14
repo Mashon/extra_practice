@@ -101,14 +101,6 @@ These will work because we included them in our class!
 
 When we use a module this way its often called a mixin. We are taking a class and mixing in methods from the module.
 
-***************************************************
-***************************************************
-***************************************************
-***************************************************
-***************************************************
-***************************************************
-***************************************************
-
 So far we've been testing this code in irb. But what if I want it to exist in an actual Ruby program?
 
 Copy and paste the SalesAssociate class into a file and save it as SalesAssociate.rb
