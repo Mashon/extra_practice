@@ -82,7 +82,7 @@ class SalesAssociate
 end
 ```
 
-Now the `SalesAssociate` is able to utilize the method inside the SalesGoals module *as well* as the methods inside the SalesAssociate module.
+Now the `SalesAssociate` is able to utilize the method inside the SalesGoals module *as well* as the methods inside the SalesHistory module.
 
 Now lets instantiate an actual SalesAssociate.
 ```ruby
